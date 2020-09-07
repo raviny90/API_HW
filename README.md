@@ -42,3 +42,10 @@ Final notebook musts:
 3. Using Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
 
 * Plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
+
+#Requirements:
+
+* Install citypy in your python environment (https://pypi.python.org/pypi/citipy)
+* OpenWeatherMap API Key (https://openweathermap.org/) as 'weather_api_key'
+* Google API Key (https://console.developers.google.com/getting-started) as 'g_key'
+* Create API Keys and store it in the 'api_keys.py' file before running the Jupyter notebooks.
